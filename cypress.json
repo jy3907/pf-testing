@@ -1,0 +1,12 @@
+{
+    "baseUrl":"https://magento.softwaretestingboard.com/",
+    "video": false,
+    "screenshotOnRunFailure": true,
+    "defaultCommandTimeout" : 10000,
+    "env":
+    {
+        "codeCoverageTasksRegistered": false,
+        "FAIL_FAST_STRATEGY": "run",
+        "FAIL_FAST_ENABLED": false
+    }
+}

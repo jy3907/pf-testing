@@ -1,0 +1,18 @@
+{
+    "customer": {
+        "customer": {
+            "email": "jy3907@nyu.edu",
+            "firstname": "Junfu",
+            "lastname": "Yao"
+        },
+        "password": "!Pf123"
+    },
+    "customerInfo": {
+        "city": "Coquitlam",
+        "country": "Canada",
+        "phone": "1234567890",
+        "state": "BC",
+        "streetAddress": "611 Cypress St",
+        "zip": "V3J6K9"
+    }
+}
