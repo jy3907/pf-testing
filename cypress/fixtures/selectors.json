@@ -1,0 +1,8 @@
+{
+    "loginEmailInputSelector": "#email",
+    "loginPasswordInputSelector": "#pass",
+    "myAccountHeaderSelector": "[data-ui-id=\"page-title-wrapper\"]",
+    "addAddressFormSelector": "#form-validate",
+    "accountFirstnameInputSelector": "#firstname",
+    "accountLastnameInputSelector": "#lastname"
+}

@@ -5,13 +5,13 @@
             "firstname": "Junfu",
             "lastname": "Yao"
         },
-        "password": "!Pf123"
+        "password": "!Pf123123"
     },
     "customerInfo": {
         "city": "Coquitlam",
         "country": "Canada",
         "phone": "1234567890",
-        "state": "BC",
+        "state": "British Columbia",
         "streetAddress": "611 Cypress St",
         "zip": "V3J6K9"
     }

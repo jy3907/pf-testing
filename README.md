@@ -11,7 +11,7 @@ or open cypress and run the test manually
 ## To-do list
 1. The page objects model
 2. The e2e tests
-3. The fixtures contains all the selectors and values
+3. The fixtures contains all the selectors and testing data
 4. CircleCI integration
 5. Cypress testing report
 6. BrowserStack multiple browser runs
