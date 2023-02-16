@@ -3,6 +3,13 @@
     "video": false,
     "screenshotOnRunFailure": true,
     "defaultCommandTimeout" : 10000,
+    "reporter": "mochawesome",
+    "reporterOptions": {
+       "reportDir": "cypress/results",
+       "overwrite": false,
+       "html": true,
+       "json": false
+    },
     "env":
     {
         "codeCoverageTasksRegistered": false,
