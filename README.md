@@ -1,10 +1,15 @@
 # PF-Testing
 PF E2E Testing
 
-## How to run the test locally
-0. node version v14.15.0 and npm version v6.14.8
+## Requirements
+node version v14.15.0 and npm version v6.14.8
+
+## How to run the all test locally
 1. npm install
 2. npm run cy:run
+
+## How to run some test locally
+1. npm run cy:run -- --spec **/account.spec.js
 or open cypress and run the test manually
 1. npm run cy:open
 
