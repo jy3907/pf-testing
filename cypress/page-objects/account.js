@@ -6,10 +6,6 @@ export class Account {
         cy.get(selectors.loginEmailInputSelector).type(user)
         cy.get(selectors.loginPasswordInputSelector).type(`${pw}{enter}`)
     }
-
-    static isLoggedIn() {
-        cy.contains(selectors.myAccountHeaderSelector, 'My Account')
-    }
     
     static logout() {
         cy.visit("/customer/account/index");

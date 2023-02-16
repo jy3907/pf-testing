@@ -20,6 +20,6 @@ or open cypress and run the test manually
 3. The fixtures contains all the selectors and testing data
 4. CircleCI integration - Done
 5. Cypress result report (html) - Done
-6. BrowserStack multiple browser runs - Won't do
-7. Cypress dashboad testing report - Won't do
+6. Cypress dashboard to check the performance of test - Done
+7. BrowserStack multiple browser runs - Won't do
 8. Encrypt/Decrypt all sensitive data - Won't do
