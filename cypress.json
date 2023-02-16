@@ -10,6 +10,7 @@
        "html": true,
        "json": false
     },
+    "projectId": "92g9et",
     "env":
     {
         "codeCoverageTasksRegistered": false,
